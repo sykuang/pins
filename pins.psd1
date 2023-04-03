@@ -30,7 +30,12 @@ CompanyName = 'Unknown'
 Copyright = '(c) kenkuang. All rights reserved.'
 
 # Description of the functionality provided by this module
-Description = 'Powershell Is Not a Shell'
+Description = 'This PowerShell module enables you to run Linux commands in PowerShell. It provides a seamless experience for developers who are familiar with Linux commands and want to use them in PowerShell without having to learn new commands. The module is easy to install and use, and it works with PowerShell 5.0 or higher.
+
+The module is designed for developers who are transitioning from Linux to Windows and want to continue using their existing Linux commands in PowerShell. It provides a familiar environment for developers who are used to working with Linux commands, and it makes it easy to switch between Linux and Windows environments.
+
+To install the module, you can use the PowerShell Gallery. Once installed, you can start using Linux commands in PowerShell right away.
+'
 
 # Minimum version of the PowerShell engine required by this module
 # PowerShellVersion = ''
