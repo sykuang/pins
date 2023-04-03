@@ -12,7 +12,7 @@
 RootModule = 'pins.psm1'
 
 # Version number of this module.
-ModuleVersion = '0.0.1'
+ModuleVersion = '0.0.2'
 
 # Supported PSEditions
 # CompatiblePSEditions = @()
@@ -30,7 +30,7 @@ CompanyName = 'Unknown'
 Copyright = '(c) kenkuang. All rights reserved.'
 
 # Description of the functionality provided by this module
-Description = 'Powershell is not a shell'
+Description = 'Powershell Is Not a Shell'
 
 # Minimum version of the PowerShell engine required by this module
 # PowerShellVersion = ''
