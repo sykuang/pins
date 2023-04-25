@@ -15,6 +15,7 @@ Install-Module -Name pins
 * cat
 * md5sum
 * open
+* time
 
 ## Requirements
 This module requires PowerShell 5.0 or higher.
